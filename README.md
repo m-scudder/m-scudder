@@ -18,52 +18,15 @@ Recently, my work has included:
 - Leading backend-focused squads and managing tech roadmap execution
 
 ---
-
 ## 🛠️ Tech Stack
 
-### **Backend**
-- Java, Spring Boot  
-- Python, Flask, FastAPI  
-- Node.js  
-
-### **Cloud & DevOps**
-- AWS, GCP  
-- Docker, Kubernetes  
-- CI/CD (GitHub Actions, custom pipelines)
-
-### **Databases**
-- PostgreSQL  
-- Firebase  
-- Supabase
-
-### **Tools**
-- Git  
-- Kafka  
-- Airtable  
-- JIRA  
+| 🧩 Backend | ☁️ Cloud & DevOps | 🗄️ Databases | 🔧 Tools |
+|-----------|-------------------|--------------|----------|
+| Java | AWS | PostgreSQL | Git |
+| Spring Boot | GCP | Firebase | Docker |
+| Python | Docker | Supabase | Kubernetes |
+| Flask | Kubernetes | — | Kafka |
+| FastAPI | CI/CD Pipelines | — | Airtable |
+| Node.js | — | — | JIRA |
 
 ---
-
-## 🧩 Highlighted Projects
-
-### 🔹 **PitchSync – AI-driven Investor Deck Summarizer**
-An autonomous agent integrating **Google Drive API**, **Slack Bot API**, and **LLMs** to auto-generate investor-ready pitch deck summaries, reducing manual review time drastically.  
-*Tech:* LLM, RAG, GenAI
-
-### 🔹 **Multimodal Content Processing Pipeline**
-Automated system that collects content from newsletters, news, social media, RSS, and email, then uses **Gemini AI** to classify, dedupe, and store data reliably.
-
----
-
-## 🎓 Certifications
-- Building Modern Python Applications on AWS  
-- Docker & Kubernetes: The Practical Guide  
-- Machine Learning  
-- NLP Specialization  
-
----
-
-## 📫 Connect With Me
-
-**Email:** mayankagarwal997@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/whomayankagarwal/  
